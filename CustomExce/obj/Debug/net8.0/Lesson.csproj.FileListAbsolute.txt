@@ -1,0 +1,14 @@
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\bin\Debug\net8.0\Lesson.exe
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\bin\Debug\net8.0\Lesson.deps.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\bin\Debug\net8.0\Lesson.runtimeconfig.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\bin\Debug\net8.0\Lesson.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\bin\Debug\net8.0\Lesson.pdb
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\obj\Debug\net8.0\Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\obj\Debug\net8.0\Lesson.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\obj\Debug\net8.0\Lesson.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\obj\Debug\net8.0\Lesson.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\obj\Debug\net8.0\Lesson.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\obj\Debug\net8.0\refint\Lesson.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\obj\Debug\net8.0\Lesson.pdb
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\obj\Debug\net8.0\Lesson.genruntimeconfig.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\Ptest\CustomExce\obj\Debug\net8.0\ref\Lesson.dll
